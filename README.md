@@ -1,10 +1,10 @@
-Project title:
+## Project title:
 Restaurant-Reviews-App.
 
-Description:
+## Description:
 In this project, I incrementally converted a static webpage to a mobile-ready web application. I took a static design that lacked accessibility and converted the design to be responsive on different sized displays and accessible for screen reader use. I also added a service worker to begin the process of creating a seamless offline experience for the users.
 
-Instalation:
+## Instalation:
 Colen the hana-alotaibi and use Restaurant-Reviews-App to install, then follow the instructions below:
 
 In the repository folder, start up a simple HTTP server to serve up the site files on your local computer. Python has some simple tools to do this, and you don't even need to know Python. For most people, it's already installed on your computer.
